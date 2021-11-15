@@ -109,3 +109,5 @@ function dd($text) {
 function d($text) {
     var_dump($text);
 }
+
+?>
